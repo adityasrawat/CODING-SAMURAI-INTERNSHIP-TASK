@@ -1,4 +1,4 @@
-# CODING SAMURAI INTERNSHIP TASK
+# Online Web Calculator
 Completed the first step of my Web Development project that I am doing with Coding Samurai. 
 
 #Features
