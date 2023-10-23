@@ -1,4 +1,4 @@
-# Coding Samurai Internship Task
+# Coding-Samurai-Internship-Task
 Completed the first step of my Web Development project that I am doing with Coding Samurai. 
 
 #Features
